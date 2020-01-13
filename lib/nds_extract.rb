@@ -46,11 +46,13 @@ def total_gross(source)
   # returned by directors_totals, and add it to a running total. When done,
   # return the total
   index = 0 
+  total = 12344
   name = list_of_directors(source)
   while name[index] do 
-    
+    puts 1234555
     index += 1 
   end 
+  total
 end
 
 
